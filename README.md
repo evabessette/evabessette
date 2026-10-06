@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=77F747&width=435&lines=Welcome+to+my+GitHub+profile;Bienvenue+sur+ma+page+GitHub)](https://git.io/typing-svg)
 
 <!--
 **evabessette/evabessette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
