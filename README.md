@@ -1,5 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=77F747&width=435&lines=Welcome+to+my+GitHub+profile;Bienvenue+sur+ma+page+GitHub)](https://git.io/typing-svg)
+Bonjour! Je m'appelle Eva. J'étudie le développement de logiciels au Collège de Maisonneuve, à Montréal. Je suis à la recherche d'un stage d'au moins 8 semaines à partir du 11 janvier 2027. 
 
+Hi! I'm Eva. I'm a software development student at Collège de Maisonneuve, in Montréal. I'm currently looking for an internship of at least 8 weeks starting 11 January 2027. 
+
+**Technologies:** Java · TypeScript (React, Node/Express) · SQL (MySQL, PostgreSQL) · Prisma · Rust
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/eva-bessette/)
 <!--
 **evabessette/evabessette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
