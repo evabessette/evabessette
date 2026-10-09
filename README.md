@@ -1,5 +1,3 @@
-Bonjour! Je m'appelle Eva. J'étudie le développement de logiciels au Collège de Maisonneuve, à Montréal. Je suis à la recherche d'un stage d'au moins 8 semaines à partir du 11 janvier 2027. 
-
 Hi! I'm Eva. I'm a software development student at Collège de Maisonneuve, in Montréal. I'm currently looking for an internship of at least 8 weeks starting 11 January 2027. 
 
 **Technologies:** Java · TypeScript (React, Node/Express) · Prisma · SQL (MySQL, PostgreSQL) · Rust
