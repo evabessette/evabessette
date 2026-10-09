@@ -1,6 +1,6 @@
-Hi! I'm Eva. I'm a software development student at Collège de Maisonneuve, in Montréal. I'm currently looking for an internship of at least 8 weeks starting 11 January 2027. 
+Software development student at Collège de Maisonneuve. I'm looking for an internship of at least 8 weeks starting 11 January 2027. 
 
-**Technologies:** Java · TypeScript (React, Node/Express) · Prisma · SQL (MySQL, PostgreSQL) · Rust
+**Tech stack:** Java · TypeScript (React, Node/Express) · Prisma · SQL (MySQL, PostgreSQL) · Python · Rust
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/eva-bessette/)
 <!--
