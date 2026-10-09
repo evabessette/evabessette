@@ -1,4 +1,4 @@
-Software development student at Collège de Maisonneuve. I'm looking for an internship of at least 8 weeks starting 11 January 2027. 
+Software development student at Collège de Maisonneuve. Looking for an internship of at least 8 weeks starting 11 January 2027. 
 
 **Tech stack:** Java · TypeScript (React, Node/Express) · Prisma · SQL (MySQL, PostgreSQL) · Python · Rust
 
