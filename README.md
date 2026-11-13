@@ -2,7 +2,7 @@ Software development student (AEC) at Collège de Maisonneuve. Seeking an intern
 
 **Tech stack:** Java · TypeScript (React, Node/Express) · Prisma · SQL (MySQL, PostgreSQL) · Python · Rust
 
-[One Four Five: a practice tool for singers](https://one-four-five.vercel.app/)
+**One Four Five** (a practice tool for singers): [https://one-four-five.vercel.app/](https://one-four-five.vercel.app/)
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/eva-bessette/)
 <!--
